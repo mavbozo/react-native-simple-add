@@ -1,6 +1,6 @@
 {
   "name": "@mavbozo/react-native-simple-add",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "for testing react native builder bob",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
